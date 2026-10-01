@@ -1,0 +1,48 @@
+Christmas Theme
+
+The grinch created the bomb to destroy all of Santa's presents
+Defuse the bomb to save Christmas
+
+If you get a phase correct, the button shows green for 3 seconds
+If you get a phase wrong, the button shows red for 3 seconds
+
+Phase 1
+    Solid color button corresponds to what wire to pull
+    Red = Black Wire
+    Green = White Wire
+    White = Gray Wire
+    Blue = Purple Wire
+    Yellow / Gold = Blue Wire 
+
+Phase 2
+    Keypad
+    Upon completion of phase 1, a word pops up on the screen
+    Possible Words
+        Hatred
+        Max
+        Cindy
+        Heart
+        Sleigh
+
+    Goes through cypher, type word into keypad and press # to enter
+
+Phase 3 
+    Button Flashes -> Switch positions
+    Button will flash four times then pause
+    Each flash will either be a certain color and either long or short
+    Long flash = on
+    Short flash = off
+    Each color corresponds to a Switch
+
+    Red = First Switch
+    Green = Second Switch
+    Blue = Third Switch
+    Yellow = Fourth Switch
+
+Phase 4
+    Button Color Flashing
+    Two words from the list pops up on screen
+    Player has to press when button is one color and release when it flashes another
+
+    First word determines what color to press on
+    Second word determines what color to release on 
